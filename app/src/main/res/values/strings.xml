@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SimpleCalculatorApp</string>
+    <string name="result">Result</string>
+    <string name="plus">+</string>
+    <string name="power">N^M</string>
+    <string name="divide">/</string>
+    <string name="modulo">%</string>
+    <string name="multiply">*</string>
+    <string name="substitute">-</string>
+    <string name="please_enter_number_values">Please enter number values!</string>
+    <string name="division_by_zero">Division by zero is not allowed!</string>
 </resources>
